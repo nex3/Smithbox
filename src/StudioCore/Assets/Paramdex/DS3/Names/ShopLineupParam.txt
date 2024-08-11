@@ -1,3 +1,7 @@
+1 ??? - Divine Blessing
+2000 ??? - Hand Axe
+2001 ??? - Uchigatana
+2011 ??? - Bastard Sword
 30000 Ludleth - Champion Gundyr - Gundyr's Halberd
 30001 Ludleth - Champion Gundyr - Prisoner's Chain
 30020 Ludleth - Dancer - Dancer's Enchanted Swords
@@ -186,380 +190,380 @@
 111001 Shrine Handmaid - Yuria - Black Dress
 111002 Shrine Handmaid - Yuria - Black Gauntlets
 111003 Shrine Handmaid - Yuria - Black Leggings
-111050 Shrine Handmaid -
-111051 Shrine Handmaid -
-111052 Shrine Handmaid -
-111053 Shrine Handmaid -
-111100 Shrine Handmaid -
-111101 Shrine Handmaid -
-111102 Shrine Handmaid -
-111103 Shrine Handmaid -
-111150 Shrine Handmaid -
-111151 Shrine Handmaid -
-111152 Shrine Handmaid -
-111153 Shrine Handmaid -
-111200 Shrine Handmaid -
-111201 Shrine Handmaid -
-111250 Shrine Handmaid -
-111251 Shrine Handmaid -
-111252 Shrine Handmaid -
-111253 Shrine Handmaid -
-111301 Shrine Handmaid -
-111302 Shrine Handmaid -
-111303 Shrine Handmaid -
-111350 Shrine Handmaid -
-111351 Shrine Handmaid -
-111352 Shrine Handmaid -
-111353 Shrine Handmaid -
-111400 Shrine Handmaid -
-111401 Shrine Handmaid -
-111402 Shrine Handmaid -
-111403 Shrine Handmaid -
-111450 Shrine Handmaid -
-111451 Shrine Handmaid -
-111452 Shrine Handmaid -
-111453 Shrine Handmaid -
-111500 Shrine Handmaid -
-111550 Shrine Handmaid -
-111551 Shrine Handmaid -
-111552 Shrine Handmaid -
-111553 Shrine Handmaid -
-111560 Shrine Handmaid -
-111561 Shrine Handmaid -
-111562 Shrine Handmaid -
-111563 Shrine Handmaid -
-111600 Shrine Handmaid -
-111601 Shrine Handmaid -
-111602 Shrine Handmaid -
-111650 Shrine Handmaid -
-111651 Shrine Handmaid -
-111652 Shrine Handmaid -
-111653 Shrine Handmaid -
-111654 Shrine Handmaid -
-111655 Shrine Handmaid -
-111656 Shrine Handmaid -
-111950 Shrine Handmaid -
-111951 Shrine Handmaid -
-111952 Shrine Handmaid -
-112000 Shrine Handmaid -
-112001 Shrine Handmaid -
-112002 Shrine Handmaid -
-112003 Shrine Handmaid -
-112004 Shrine Handmaid -
-112005 Shrine Handmaid -
-112006 Shrine Handmaid -
-112500 Shrine Handmaid -
-112501 Shrine Handmaid -
-112502 Shrine Handmaid -
-112503 Shrine Handmaid -
-112600 Shrine Handmaid -
-113000 Shrine Handmaid -
-113001 Shrine Handmaid -
-113002 Shrine Handmaid -
-113003 Shrine Handmaid -
-113004 Shrine Handmaid -
-113005 Shrine Handmaid -
-113006 Shrine Handmaid -
-113007 Shrine Handmaid -
-113008 Shrine Handmaid -
-113009 Shrine Handmaid -
-113010 Shrine Handmaid -
-113011 Shrine Handmaid -
-113012 Shrine Handmaid -
-113013 Shrine Handmaid -
-113014 Shrine Handmaid -
-113015 Shrine Handmaid -
-113016 Shrine Handmaid -
-113017 Shrine Handmaid -
-113018 Shrine Handmaid -
-113019 Shrine Handmaid -
-113020 Shrine Handmaid -
-113021 Shrine Handmaid -
-113022 Shrine Handmaid -
-113100 Shrine Handmaid -
-113101 Shrine Handmaid -
-113102 Shrine Handmaid -
-113103 Shrine Handmaid -
-113104 Shrine Handmaid -
-113105 Shrine Handmaid -
-113106 Shrine Handmaid -
-113107 Shrine Handmaid -
-113108 Shrine Handmaid -
-113109 Shrine Handmaid -
-113110 Shrine Handmaid -
-113111 Shrine Handmaid -
-113112 Shrine Handmaid -
-113113 Shrine Handmaid -
-113114 Shrine Handmaid -
-113115 Shrine Handmaid -
-113116 Shrine Handmaid -
-113117 Shrine Handmaid -
-113118 Shrine Handmaid -
-113119 Shrine Handmaid -
-113120 Shrine Handmaid -
-113121 Shrine Handmaid -
-113122 Shrine Handmaid -
-113124 Shrine Handmaid -
-113125 Shrine Handmaid -
-113200 Shrine Handmaid -
-113201 Shrine Handmaid -
-113202 Shrine Handmaid -
-113203 Shrine Handmaid -
-113204 Shrine Handmaid -
-113205 Shrine Handmaid -
-113206 Shrine Handmaid -
-113207 Shrine Handmaid -
-113208 Shrine Handmaid -
-113209 Shrine Handmaid -
-113210 Shrine Handmaid -
-113211 Shrine Handmaid -
-113212 Shrine Handmaid -
-113213 Shrine Handmaid -
-113214 Shrine Handmaid -
-113300 Shrine Handmaid -
-113301 Shrine Handmaid -
-113302 Shrine Handmaid -
-113303 Shrine Handmaid -
-114100 Shrine Handmaid -
-114101 Shrine Handmaid -
-114102 Shrine Handmaid -
-114103 Shrine Handmaid -
-114104 Shrine Handmaid -
-114105 Shrine Handmaid -
-114106 Shrine Handmaid -
-114107 Shrine Handmaid -
-114108 Shrine Handmaid -
-114109 Shrine Handmaid -
-114110 Shrine Handmaid -
-114200 Shrine Handmaid -
-114300 Shrine Handmaid -
-114301 Shrine Handmaid -
-114302 Shrine Handmaid -
-114303 Shrine Handmaid -
-114400 Shrine Handmaid -
-114401 Shrine Handmaid -
-114500 Shrine Handmaid -
-114501 Shrine Handmaid -
-114502 Shrine Handmaid -
-114600 Shrine Handmaid -
-114601 Shrine Handmaid -
-114602 Shrine Handmaid -
-115000 Shrine Handmaid -
-115001 Shrine Handmaid -
-115002 Shrine Handmaid -
-115003 Shrine Handmaid -
-115100 Shrine Handmaid -
-115101 Shrine Handmaid -
-115102 Shrine Handmaid -
-115103 Shrine Handmaid -
-115104 Shrine Handmaid -
-115200 Shrine Handmaid -
-115201 Shrine Handmaid -
-115202 Shrine Handmaid -
-115300 Shrine Handmaid -
-115301 Shrine Handmaid -
-115302 Shrine Handmaid -
-115400 Shrine Handmaid -
-115401 Shrine Handmaid -
-116100 Shrine Handmaid -
-116101 Shrine Handmaid -
-116200 Shrine Handmaid -
-116201 Shrine Handmaid -
-116202 Shrine Handmaid -
-116300 Shrine Handmaid -
-116301 Shrine Handmaid -
-116400 Shrine Handmaid -
-116401 Shrine Handmaid -
-116500 Shrine Handmaid -
-116501 Shrine Handmaid -
-116502 Shrine Handmaid -
-117000 Shrine Handmaid -
-117100 Shrine Handmaid -
-117101 Shrine Handmaid -
-117102 Shrine Handmaid -
-117103 Shrine Handmaid -
-117200 Shrine Handmaid -
-117201 Shrine Handmaid -
-117202 Shrine Handmaid -
-117300 Shrine Handmaid -
-117301 Shrine Handmaid -
-117302 Shrine Handmaid -
-117400 Shrine Handmaid -
-117401 Shrine Handmaid -
-117500 Shrine Handmaid -
-117501 Shrine Handmaid -
-117502 Shrine Handmaid -
-118000 Shrine Handmaid -
-118001 Shrine Handmaid -
-118002 Shrine Handmaid -
-118003 Shrine Handmaid -
-118004 Shrine Handmaid -
-118005 Shrine Handmaid -
-118011 Shrine Handmaid -
-118012 Shrine Handmaid -
-118013 Shrine Handmaid -
-118014 Shrine Handmaid -
-118015 Shrine Handmaid -
-118016 Shrine Handmaid -
-118017 Shrine Handmaid -
-118018 Shrine Handmaid -
-118100 Shrine Handmaid -
-118200 Shrine Handmaid -
-118300 Shrine Handmaid -
-119000 Shrine Handmaid -
-119001 Shrine Handmaid -
-119002 Shrine Handmaid -
-119003 Shrine Handmaid -
-119004 Shrine Handmaid -
-119005 Shrine Handmaid -
-119900 Shrine Handmaid -
-119901 Shrine Handmaid -
-119902 Shrine Handmaid -
-119903 Shrine Handmaid -
-119904 Shrine Handmaid -
-119905 Shrine Handmaid -
-119906 Shrine Handmaid -
-119907 Shrine Handmaid -
-119950 Shrine Handmaid -
-119951 Shrine Handmaid -
-119952 Shrine Handmaid -
-119953 Shrine Handmaid -
-120000 Greirat -
-120001 Greirat -
-120002 Greirat -
-120003 Greirat -
-120004 Greirat -
-120005 Greirat -
-120006 Greirat -
-120007 Greirat -
-120008 Greirat -
-120009 Greirat -
-120010 Greirat -
-120011 Greirat -
-120012 Greirat -
-120013 Greirat -
-120014 Greirat -
-120015 Greirat -
-120016 Greirat -
-120017 Greirat -
-120018 Greirat -
-120019 Greirat -
-120020 Greirat -
-120021 Greirat -
-120022 Greirat -
-120100 Greirat -
-120101 Greirat -
-120102 Greirat -
-120103 Greirat -
-120104 Greirat -
-120105 Greirat -
-120106 Greirat -
-120107 Greirat -
-120108 Greirat -
-120109 Greirat -
-120110 Greirat -
-120111 Greirat -
-120112 Greirat -
-120113 Greirat -
-120114 Greirat -
-120115 Greirat -
-120116 Greirat -
-120117 Greirat -
-120118 Greirat -
-120119 Greirat -
-120120 Greirat -
-120121 Greirat -
-120122 Greirat -
-120124 Greirat -
-120125 Greirat -
-120200 Greirat -
-120201 Greirat -
-120202 Greirat -
-120203 Greirat -
-120204 Greirat -
-120205 Greirat -
-120206 Greirat -
-120207 Greirat -
-120208 Greirat -
-120209 Greirat -
-120210 Greirat -
-120211 Greirat -
-120212 Greirat -
-120213 Greirat -
-120214 Greirat -
-120300 Greirat -
-120301 Greirat -
-120302 Greirat -
-120303 Greirat -
-130100 Orbeck -
-130101 Orbeck -
-130102 Orbeck -
-130103 Orbeck -
-130104 Orbeck -
-130105 Orbeck -
-130106 Orbeck -
-130107 Orbeck -
-130108 Orbeck -
-130109 Orbeck -
-130110 Orbeck -
-130200 Orbeck -
-130300 Orbeck -
-130301 Orbeck -
-130400 Orbeck -
-130401 Orbeck -
-130500 Orbeck -
-130501 Orbeck -
-130502 Orbeck -
-130600 Orbeck -
-130601 Orbeck -
-130602 Orbeck -
-130603 Orbeck -
-130604 Orbeck -
-140000 Cornyx -
-140001 Cornyx -
-140002 Cornyx -
-140003 Cornyx -
-140100 Cornyx -
-140101 Cornyx -
-140102 Cornyx -
-140103 Cornyx -
-140200 Cornyx -
-140201 Cornyx -
-140202 Cornyx -
-140203 Cornyx -
-140300 Cornyx -
-140301 Cornyx -
-140302 Cornyx -
-140400 Cornyx -
-140401 Cornyx -
-150100 Karla -
-150101 Karla -
-150200 Karla -
-150201 Karla -
-150202 Karla -
-150300 Karla -
-150301 Karla -
-150400 Karla -
-150401 Karla -
-150500 Karla -
-150501 Karla -
-150502 Karla -
-160000 Irina -
-160100 Irina -
-160101 Irina -
-160102 Irina -
-160103 Irina -
-160200 Irina -
-160201 Irina -
-160202 Irina -
-160300 Irina -
-160301 Irina -
-160302 Irina -
-160400 Irina -
-160401 Irina -
-160500 Irina -
-160501 Irina -
-160502 Irina -
+111050 Shrine Handmaid - Sunless Veil
+111051 Shrine Handmaid - Sunless Armor
+111052 Shrine Handmaid - Sunless Gauntlets
+111053 Shrine Handmaid - Sunless Leggings
+111100 Shrine Handmaid - Elite Knight Helm
+111101 Shrine Handmaid - Elite Knight Armor
+111102 Shrine Handmaid - Elite Knight Gauntlets
+111103 Shrine Handmaid - Elite Knight Leggings
+111150 Shrine Handmaid - Faraam Helm
+111151 Shrine Handmaid - Faraam Armor
+111152 Shrine Handmaid - Faraam Gauntlets
+111153 Shrine Handmaid - Faraam Boots
+111200 Shrine Handmaid - Black Hand Hat
+111201 Shrine Handmaid - Black Hand Armor
+111250 Shrine Handmaid - Morne's Helm
+111251 Shrine Handmaid - Morne's Armor
+111252 Shrine Handmaid - Morne's Gauntlets
+111253 Shrine Handmaid - Morne's Leggings
+111301 Shrine Handmaid - Leonhard's Garb
+111302 Shrine Handmaid - Leonhard's Gauntlets
+111303 Shrine Handmaid - Leonhard's Trousers
+111350 Shrine Handmaid - Executioner Helm
+111351 Shrine Handmaid - Executioner Armor
+111352 Shrine Handmaid - Executioner Gauntlets
+111353 Shrine Handmaid - Executioner Leggings
+111400 Shrine Handmaid - Exile Mask
+111401 Shrine Handmaid - Exile Armor
+111402 Shrine Handmaid - Exile Gauntlets
+111403 Shrine Handmaid - Exile Leggings
+111450 Shrine Handmaid - Black Iron Helm
+111451 Shrine Handmaid - Black Iron Armor
+111452 Shrine Handmaid - Black Iron Gauntlets
+111453 Shrine Handmaid - Black Iron Leggings
+111500 Shrine Handmaid - Clandestine Coat
+111550 Shrine Handmaid - Helm of Favor
+111551 Shrine Handmaid - Embraced Armor of Favor
+111552 Shrine Handmaid - Gauntlets of Favor
+111553 Shrine Handmaid - Leggings of Favor
+111560 Shrine Handmaid - Lapp's Helm
+111561 Shrine Handmaid - Lapp's Armor
+111562 Shrine Handmaid - Lapp's Gauntlets
+111563 Shrine Handmaid - Lapp's Leggings
+111600 Shrine Handmaid - Ordained Hood
+111601 Shrine Handmaid - Ordained Dress
+111602 Shrine Handmaid - Ordained Trousers
+111650 Shrine Handmaid - Millwood Greatarrow
+111651 Shrine Handmaid - Millwood Knight Helm
+111652 Shrine Handmaid - Millwood Knight Armor
+111653 Shrine Handmaid - Millwood Knight Gauntlets
+111654 Shrine Handmaid - Millwood Knight Leggings
+111655 Shrine Handmaid - Refined Gem
+111656 Shrine Handmaid - Titanite Scale
+111950 Shrine Handmaid - Hidden Blessing
+111951 Shrine Handmaid - Budding Green Blossom
+111952 Shrine Handmaid - Titanite Slab
+112000 Shrine Handmaid - Dark Hand
+112001 Shrine Handmaid - Londor Braille Divine Tome
+112002 Shrine Handmaid - Ring of Sacrifice
+112003 Shrine Handmaid - Untrue White Ring
+112004 Shrine Handmaid - Untrue Dark Ring
+112005 Shrine Handmaid - Purging Stone
+112006 Shrine Handmaid - Poison Throwing Knife
+112500 Shrine Handmaid - Soul Arrow
+112501 Shrine Handmaid - Heavy Soul Arrow
+112502 Shrine Handmaid - Magic Weapon
+112503 Shrine Handmaid - Magic Shield
+112600 Shrine Handmaid - Soul Greatsword
+113000 Shrine Handmaid - Greirat's Ashes - Bandit's Knife
+113001 Shrine Handmaid - Greirat's Ashes - Long Sword
+113002 Shrine Handmaid - Greirat's Ashes - Bastard Sword
+113003 Shrine Handmaid - Greirat's Ashes - Mace
+113004 Shrine Handmaid - Greirat's Ashes - Spear
+113005 Shrine Handmaid - Greirat's Ashes - Light Crossbow
+113006 Shrine Handmaid - Greirat's Ashes - Buckler
+113007 Shrine Handmaid - Greirat's Ashes - Round Shield
+113008 Shrine Handmaid - Greirat's Ashes - Kite Shield
+113009 Shrine Handmaid - Greirat's Ashes - Elkhorn Round Shield
+113010 Shrine Handmaid - Greirat's Ashes - Standard Helm
+113011 Shrine Handmaid - Greirat's Ashes - Hard Leather Armor
+113012 Shrine Handmaid - Greirat's Ashes - Hard Leather Gauntlets
+113013 Shrine Handmaid - Greirat's Ashes - Hard Leather Boots
+113014 Shrine Handmaid - Greirat's Ashes - Thief Mask
+113015 Shrine Handmaid - Greirat's Ashes - Bloodred Moss Clump
+113016 Shrine Handmaid - Greirat's Ashes - Firebomb
+113017 Shrine Handmaid - Greirat's Ashes - Rope Firebomb
+113018 Shrine Handmaid - Greirat's Ashes - Throwing Knife
+113019 Shrine Handmaid - Greirat's Ashes - Ember
+113020 Shrine Handmaid - Greirat's Ashes - Standard Arrow
+113021 Shrine Handmaid - Greirat's Ashes - Fire Arrow
+113022 Shrine Handmaid - Greirat's Ashes - Standard Bolt
+113100 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Estoc
+113101 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Zweihander
+113102 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Warpick
+113103 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Glaive
+113104 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Priest's Chime
+113105 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Short Bow
+113106 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Target Shield
+113107 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Knight Shield
+113108 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Knight Helm
+113109 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Knight Armor
+113110 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Knight Gauntlets
+113111 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Knight Leggings
+113112 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Assassin Gloves
+113113 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Assassin Trousers
+113114 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Assassin Armor
+113115 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Assassin Hood
+113116 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Repair Powder
+113117 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Lightning Urn
+113118 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Ember
+113119 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Large Arrow
+113120 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Heavy Bolt
+113121 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Sniper Bolt
+113122 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Divine Blessing
+113124 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Pontiff Knight Curved Sword
+113125 Shrine Handmaid - Greirat's Ashes - Undead Settlement - Pontiff Knight Shield
+113200 Shrine Handmaid - Greirat's Ashes - Irithyll - Moonlight Arrow
+113201 Shrine Handmaid - Greirat's Ashes - Irithyll - Dragonslayer Greatarrow
+113202 Shrine Handmaid - Greirat's Ashes - Irithyll - Dragonslayer Lightning Arrow
+113203 Shrine Handmaid - Greirat's Ashes - Irithyll - Lightning Bolt
+113204 Shrine Handmaid - Greirat's Ashes - Irithyll - Divine Blessing
+113205 Shrine Handmaid - Greirat's Ashes - Irithyll - Hidden Blessing
+113206 Shrine Handmaid - Greirat's Ashes - Irithyll - Titanite Scale
+113207 Shrine Handmaid - Greirat's Ashes - Irithyll - Twinkling Titanite
+113208 Shrine Handmaid - Greirat's Ashes - Irithyll - Scholar's Candlestick
+113209 Shrine Handmaid - Greirat's Ashes - Irithyll - Lothric Knight Sword
+113210 Shrine Handmaid - Greirat's Ashes - Irithyll - Lothric Knight Greatsword
+113211 Shrine Handmaid - Greirat's Ashes - Irithyll - Lothric Knight Long Spear
+113212 Shrine Handmaid - Greirat's Ashes - Irithyll - Knight's Crossbow
+113213 Shrine Handmaid - Greirat's Ashes - Irithyll - Lothric Knight Shield
+113214 Shrine Handmaid - Greirat's Ashes - Irithyll - Lothric Knight Greatshield
+113300 Shrine Handmaid - Greirat's Ashes - Lothric Castle - Lightning Urn
+113301 Shrine Handmaid - Greirat's Ashes - Lothric Castle - Ember
+113302 Shrine Handmaid - Greirat's Ashes - Lothric Castle - Splintering Bolt
+113303 Shrine Handmaid - Greirat's Ashes - Lothric Castle - Exploding Bolt
+114100 Shrine Handmaid - Orbeck's Ashes - Farron Dart
+114101 Shrine Handmaid - Orbeck's Ashes - Soul Arrow
+114102 Shrine Handmaid - Orbeck's Ashes - Great Soul Arrow
+114103 Shrine Handmaid - Orbeck's Ashes - Heavy Soul Arrow
+114104 Shrine Handmaid - Orbeck's Ashes - Great Heavy Soul Arrow
+114105 Shrine Handmaid - Orbeck's Ashes - Magic Weapon
+114106 Shrine Handmaid - Orbeck's Ashes - Magic Shield
+114107 Shrine Handmaid - Orbeck's Ashes - Soul Greatsword
+114108 Shrine Handmaid - Orbeck's Ashes - Farron Flashsword
+114109 Shrine Handmaid - Orbeck's Ashes - Spook
+114110 Shrine Handmaid - Orbeck's Ashes - Aural Decoy
+114200 Shrine Handmaid - Orbeck's Ashes - Any Scroll - Pestilent Mist
+114300 Shrine Handmaid - Orbeck's Ashes - Sage's Scroll - Great Farron Dart
+114301 Shrine Handmaid - Orbeck's Ashes - Golden Scroll - Cast Light
+114302 Shrine Handmaid - Orbeck's Ashes - Sage's Scroll - Farron Hail
+114303 Shrine Handmaid - Orbeck's Ashes - Golden Scroll - Twisted Wall of Light
+114400 Shrine Handmaid - Orbeck's Ashes - Logan's Scroll - Homing Soulmass
+114401 Shrine Handmaid - Orbeck's Ashes - Logan's Scroll - Soul Spear
+114500 Shrine Handmaid - Orbeck's Ashes - Crystal Scroll - Homing Crystal Soulmass
+114501 Shrine Handmaid - Orbeck's Ashes - Crystal Scroll - Crystal Soul Spear
+114502 Shrine Handmaid - Orbeck's Ashes - Crystal Scroll - Crystal Magic Weapon
+114600 Shrine Handmaid - Orbeck's Ashes - Golden Scroll - Hidden Weapon
+114601 Shrine Handmaid - Orbeck's Ashes - Golden Scroll - Hidden Body
+114602 Shrine Handmaid - Orbeck's Ashes - Golden Scroll - Repair
+115000 Shrine Handmaid - Cornyx's Ashes - Pyromancer Crown
+115001 Shrine Handmaid - Cornyx's Ashes - Pyromancer Garb
+115002 Shrine Handmaid - Cornyx's Ashes - Pyromancer Wrap
+115003 Shrine Handmaid - Cornyx's Ashes - Pyromancer Trousers
+115100 Shrine Handmaid - Cornyx's Ashes - Fireball
+115101 Shrine Handmaid - Cornyx's Ashes - Fire Surge
+115102 Shrine Handmaid - Cornyx's Ashes - Great Combustion
+115103 Shrine Handmaid - Cornyx's Ashes - Flash Sweat
+115104 Shrine Handmaid - Cornyx's Ashes - Great Swamp Tome - Poison Mist
+115200 Shrine Handmaid - Cornyx's Ashes - Great Swamp Tome - Fire Orb
+115201 Shrine Handmaid - Cornyx's Ashes - Great Swamp Tome - Profuse Sweat
+115202 Shrine Handmaid - Cornyx's Ashes - Great Swamp Tome - Bursting Fireball
+115300 Shrine Handmaid - Cornyx's Ashes - Carthus Tome - Acid Surge
+115301 Shrine Handmaid - Cornyx's Ashes - Carthus Tome - Carthus Flame Arc
+115302 Shrine Handmaid - Cornyx's Ashes - Carthus Tome - Carthus Beacon
+115400 Shrine Handmaid - Cornyx's Ashes - Izalith Tome - Great Chaos Fire Orb
+115401 Shrine Handmaid - Cornyx's Ashes - Izalith Tome - Chaos Storm
+116100 Shrine Handmaid - Karla's Ashes - Affinity
+116101 Shrine Handmaid - Karla's Ashes - Dark Edge
+116200 Shrine Handmaid - Karla's Ashes - Quelana Tome - Fire Whip
+116201 Shrine Handmaid - Karla's Ashes - Quelana Tome - Firestorm
+116202 Shrine Handmaid - Karla's Ashes - Quelana Tome - Rapport
+116300 Shrine Handmaid - Karla's Ashes - Grave Warden Tome - Black Flame
+116301 Shrine Handmaid - Karla's Ashes - Grave Warden Tome - Black Fire Orb
+116400 Shrine Handmaid - Karla's Ashes - Deep Tome - Deep Protection
+116401 Shrine Handmaid - Karla's Ashes - Deep Tome - Gnaw
+116500 Shrine Handmaid - Karla's Ashes - Londor Tome - Vow of Silence
+116501 Shrine Handmaid - Karla's Ashes - Londor Tome - Dark Blade
+116502 Shrine Handmaid - Karla's Ashes - Londor Tome - Dead Again
+117000 Shrine Handmaid - Irina's Ashes - Saint's Ring
+117100 Shrine Handmaid - Irina's Ashes - Heal
+117101 Shrine Handmaid - Irina's Ashes - Replenishment
+117102 Shrine Handmaid - Irina's Ashes - Caressing Tears
+117103 Shrine Handmaid - Irina's Ashes - Homeward
+117200 Shrine Handmaid - Irina's Ashes - Carim Tome - Med Heal
+117201 Shrine Handmaid - Irina's Ashes - Carim Tome - Tears of Denial
+117202 Shrine Handmaid - Irina's Ashes - Carim Tome - Force
+117300 Shrine Handmaid - Irina's Ashes - Lothric Tome - Bountiful Light
+117301 Shrine Handmaid - Irina's Ashes - Lothric Tome - Magic Barrier
+117302 Shrine Handmaid - Irina's Ashes - Lothric Tome - Blessed Weapon
+117400 Shrine Handmaid - Irina's Ashes - Deep Tome - Deep Protection
+117401 Shrine Handmaid - Irina's Ashes - Deep Tome - Gnaw
+117500 Shrine Handmaid - Irina's Ashes - Londor Tome - Vow Vow of Silence
+117501 Shrine Handmaid - Irina's Ashes - Londor Tome - Vow Dark Blade
+117502 Shrine Handmaid - Irina's Ashes - Londor Tome - Vow Dead Again
+118000 Shrine Handmaid - Patches' Ashes - Parrying Dagger
+118001 Shrine Handmaid - Patches' Ashes - Shotel
+118002 Shrine Handmaid - Patches' Ashes - Winged Spear
+118003 Shrine Handmaid - Patches' Ashes - Black Leather Armor
+118004 Shrine Handmaid - Patches' Ashes - Black Leather Gloves
+118005 Shrine Handmaid - Patches' Ashes - Black Leather Boots
+118011 Shrine Handmaid - Patches' Ashes - Alluring Skull
+118012 Shrine Handmaid - Patches' Ashes - Black Firebomb
+118013 Shrine Handmaid - Patches' Ashes - Rope Black Firebomb
+118014 Shrine Handmaid - Patches' Ashes - Human Pine Resin
+118015 Shrine Handmaid - Patches' Ashes - Rubbish
+118016 Shrine Handmaid - Patches' Ashes - Rusted Coin
+118017 Shrine Handmaid - Patches' Ashes - Red Bug Pellet
+118018 Shrine Handmaid - Patches' Ashes - Poison Arrow
+118100 Shrine Handmaid - Patches' Ashes - Ember
+118200 Shrine Handmaid - Patches' Ashes - Hidden Blessing
+118300 Shrine Handmaid - Patches' Ashes - Horsehoof Ring
+119000 Shrine Handmaid - Stone-humped Hag's Ashes - Splitleaf Greatsword
+119001 Shrine Handmaid - Stone-humped Hag's Ashes - Divine Blessing
+119002 Shrine Handmaid - Stone-humped Hag's Ashes - Hidden Blessing
+119003 Shrine Handmaid - Stone-humped Hag's Ashes - Ember
+119004 Shrine Handmaid - Stone-humped Hag's Ashes - Rusted Coin
+119005 Shrine Handmaid - Stone-humped Hag's Ashes - Rusted Gold Coin
+119900 Shrine Handmaid - Repair Powder
+119901 Shrine Handmaid - Homeward Bone
+119902 Shrine Handmaid - Prism Stone
+119903 Shrine Handmaid - Ember
+119904 Shrine Handmaid - White Sign Soapstone
+119905 Shrine Handmaid - Dried Finger
+119906 Shrine Handmaid - Tower Key
+119907 Shrine Handmaid - Priestess Ring
+119950 Shrine Handmaid - Wolf Knight Helm
+119951 Shrine Handmaid - Wolf Knight Armor
+119952 Shrine Handmaid - Wolf Knight Gauntlets
+119953 Shrine Handmaid - Wolf Knight Leggings
+120000 Greirat - Bandit's Knife
+120001 Greirat - Long Sword
+120002 Greirat - Bastard Sword
+120003 Greirat - Mace
+120004 Greirat - Spear
+120005 Greirat - Light Crossbow
+120006 Greirat - Buckler
+120007 Greirat - Round Shield
+120008 Greirat - Kite Shield
+120009 Greirat - Elkhorn Round Shield
+120010 Greirat - Standard Helm
+120011 Greirat - Hard Leather Armor
+120012 Greirat - Hard Leather Gauntlets
+120013 Greirat - Hard Leather Boots
+120014 Greirat - Thief Mask
+120015 Greirat - Bloodred Moss Clump
+120016 Greirat - Firebomb
+120017 Greirat - Rope Firebomb
+120018 Greirat - Throwing Knife
+120019 Greirat - Ember
+120020 Greirat - Standard Arrow
+120021 Greirat - Fire Arrow
+120022 Greirat - Standard Bolt
+120100 Greirat - Undead Settlement - Estoc
+120101 Greirat - Undead Settlement - Zweihander
+120102 Greirat - Undead Settlement - Warpick
+120103 Greirat - Undead Settlement - Glaive
+120104 Greirat - Undead Settlement - Priest's Chime
+120105 Greirat - Undead Settlement - Short Bow
+120106 Greirat - Undead Settlement - Target Shield
+120107 Greirat - Undead Settlement - Knight Shield
+120108 Greirat - Undead Settlement - Knight Helm
+120109 Greirat - Undead Settlement - Knight Armor
+120110 Greirat - Undead Settlement - Knight Gauntlets
+120111 Greirat - Undead Settlement - Knight Leggings
+120112 Greirat - Undead Settlement - Assassin Gloves
+120113 Greirat - Undead Settlement - Assassin Trousers
+120114 Greirat - Undead Settlement - Assassin Armor
+120115 Greirat - Undead Settlement - Assassin Hood
+120116 Greirat - Undead Settlement - Repair Powder
+120117 Greirat - Undead Settlement - Lightning Urn
+120118 Greirat - Undead Settlement - Ember
+120119 Greirat - Undead Settlement - Large Arrow
+120120 Greirat - Undead Settlement - Heavy Bolt
+120121 Greirat - Undead Settlement - Sniper Bolt
+120122 Greirat - Undead Settlement - Divine Blessing
+120124 Greirat - Undead Settlement - Pontiff Knight Curved Sword
+120125 Greirat - Undead Settlement - Pontiff Knight Shield
+120200 Greirat - Irithyll - Moonlight Arrow
+120201 Greirat - Irithyll - Dragonslayer Greatarrow
+120202 Greirat - Irithyll - Dragonslayer Lightning Arrow
+120203 Greirat - Irithyll - Lightning Bolt
+120204 Greirat - Irithyll - Divine Blessing
+120205 Greirat - Irithyll - Hidden Blessing
+120206 Greirat - Irithyll - Titanite Scale
+120207 Greirat - Irithyll - Twinkling Titanite
+120208 Greirat - Irithyll - Scholar's Candlestick
+120209 Greirat - Irithyll - Lothric Knight Sword
+120210 Greirat - Irithyll - Lothric Knight Greatsword
+120211 Greirat - Irithyll - Lothric Knight Long Spear
+120212 Greirat - Irithyll - Knight's Crossbow
+120213 Greirat - Irithyll - Lothric Knight Shield
+120214 Greirat - Irithyll - Lothric Knight Greatshield
+120300 Greirat - Lothric Castle - Lightning Urn
+120301 Greirat - Lothric Castle - Ember
+120302 Greirat - Lothric Castle - Splintering Bolt
+120303 Greirat - Lothric Castle - Exploding Bolt
+130100 Orbeck - Farron Dart
+130101 Orbeck - Soul Arrow
+130102 Orbeck - Great Soul Arrow
+130103 Orbeck - Heavy Soul Arrow
+130104 Orbeck - Great Heavy Soul Arrow
+130105 Orbeck - Magic Weapon
+130106 Orbeck - Magic Shield
+130107 Orbeck - Soul Greatsword
+130108 Orbeck - Farron Flashsword
+130109 Orbeck - Spook
+130110 Orbeck - Aural Decoy
+130200 Orbeck - Any Scroll - Pestilent Mist
+130300 Orbeck - Sage's Scroll - Great Farron Dart
+130301 Orbeck - Sage's Scroll - Farron Hail
+130400 Orbeck - Logan's Scroll - Homing Soulmass
+130401 Orbeck - Logan's Scroll - Soul Spear
+130500 Orbeck - Crystal Scroll - Homing Crystal Soulmass
+130501 Orbeck - Crystal Scroll - Crystal Soul Spear
+130502 Orbeck - Crystal Scroll - Crystal Magic Weapon
+130600 Orbeck - Golden Scroll - Hidden Weapon
+130601 Orbeck - Golden Scroll - Hidden Body
+130602 Orbeck - Golden Scroll - Repair
+130603 Orbeck - Golden Scroll - Cast Light
+130604 Orbeck - Golden Scroll - Twisted Wall of Light
+140000 Cornyx - Pyromancer Crown
+140001 Cornyx - Pyromancer Garb
+140002 Cornyx - Pyromancer Wrap
+140003 Cornyx - Pyromancer Trousers
+140100 Cornyx - Fireball
+140101 Cornyx - Fire Surge
+140102 Cornyx - Great Combustion
+140103 Cornyx - Flash Sweat
+140200 Cornyx - Great Swamp Tome - Fire Orb
+140201 Cornyx - Great Swamp Tome - Profuse Sweat
+140202 Cornyx - Great Swamp Tome - Bursting Fireball
+140203 Cornyx - Great Swamp Tome - Poison Mist
+140300 Cornyx - Carthus Tome - Acid Surge
+140301 Cornyx - Carthus Tome - Carthus Flame Arc
+140302 Cornyx - Carthus Tome - Carthus Beacon
+140400 Cornyx - Izalith Tome - Great Chaos Fire Orb
+140401 Cornyx - Izalith Tome - Chaos Storm
+150100 Karla - Affinity
+150101 Karla - Dark Edge
+150200 Karla - Quelana Tome - Fire Whip
+150201 Karla - Quelana Tome - Firestorm
+150202 Karla - Quelana Tome - Rapport
+150300 Karla - Grave Warden Tome - Black Flame
+150301 Karla - Grave Warden Tome - Black Fire Orb
+150400 Karla - Deep Tome - Deep Protection
+150401 Karla - Deep Tome - Gnaw
+150500 Karla - Londor Tome - Vow of Silence
+150501 Karla - Londor Tome - Dark Blade
+150502 Karla - Londor Tome - Dead Again
+160000 Irina - Saint's Ring
+160100 Irina - Heal
+160101 Irina - Replenishment
+160102 Irina - Caressing Tears
+160103 Irina - Homeward
+160200 Irina - Carim Tome - Med Heal
+160201 Irina - Carim Tome - Tears of Denial
+160202 Irina - Carim Tome - Force
+160300 Irina - Lothric Tome - Bountiful Light
+160301 Irina - Lothric Tome - Magic Barrier
+160302 Irina - Lothric Tome - Blessed Weapon
+160400 Irina - Deep Tome - Deep Protection
+160401 Irina - Deep Tome - Gnaw
+160500 Irina - Londor Tome - Vow Vow of Silence
+160501 Irina - Londor Tome - Vow Dark Blade
+160502 Irina - Londor Tome - Vow Dead Again
 200000 Patches - Parrying Dagger
 200001 Patches - Shotel
 200002 Patches - Winged Spear
@@ -582,9 +586,75 @@
 200100 Patches - Ember
 200200 Patches - Hidden Blessing
 200300 Patches - Horsehoof Ring
-760000 Stone-humped Hag -
-760001 Stone-humped Hag -
-760002 Stone-humped Hag -
-760003 Stone-humped Hag -
-760004 Stone-humped Hag -
-760005 Stone-humped Hag -
+760000 Stone-humped Hag - Splitleaf Greatsword
+760001 Stone-humped Hag - Divine Blessing
+760002 Stone-humped Hag - Hidden Blessing
+760003 Stone-humped Hag - Ember
+760004 Stone-humped Hag - Rusted Coin
+760005 Stone-humped Hag - Rusted Gold Coin
+900000 ??? - Dagger
+900001 ??? - Heavy Dagger
+900002 ??? - Sharp Dagger
+900003 ??? - Refined Dagger
+900004 ??? - Simple Dagger
+900005 ??? - Crystal Dagger
+900006 ??? - Fire Dagger
+900007 ??? - Chaos Dagger
+900008 ??? - Lightning Dagger
+900009 ??? - Deep Dagger
+900010 ??? - Dark Dagger
+900011 ??? - Poison Dagger
+900012 ??? - Blood Dagger
+900013 ??? - Raw Dagger
+900014 ??? - Blessed Dagger
+900015 ??? - Hollow Dagger
+900016 ??? - Bandit's Knife
+900017 ??? - Heavy Bandit's Knife
+900018 ??? - Sharp Bandit's Knife
+900019 ??? - Refined Bandit's Knife
+900020 ??? - Simple Bandit's Knife
+900021 ??? - Crystal Bandit's Knife
+900022 ??? - Fire Bandit's Knife
+900023 ??? - Chaos Bandit's Knife
+900024 ??? - Lightning Bandit's Knife
+900025 ??? - Deep Bandit's Knife
+900026 ??? - Dark Bandit's Knife
+900027 ??? - Poison Bandit's Knife
+900028 ??? - Blood Bandit's Knife
+900029 ??? - Raw Bandit's Knife
+900030 ??? - Blessed Bandit's Knife
+900031 ??? - Hollow Bandit's Knife
+900032 ??? - Titanite Shard
+900033 ??? - Lift Chamber Key
+900034 ??? - Farron Dart
+900035 ??? - Xanthous Crown
+900036 ??? - Standard Arrow
+900037 ??? - Life Ring
+900038 ??? - Bloodred Moss Clump
+900039 ??? - Purple Moss Clump
+900040 ??? - Blooming Purple Moss Clump
+900041 ??? - Rime-blue Moss Clump
+900042 ??? - Repair Powder
+900043 ??? - Kukri
+900044 ??? - Firebomb
+900045 ??? - Fading Soul
+900046 ??? - Soul of a Deserted Corpse
+900047 ??? - Large Soul of a Deserted Corpse
+900048 ??? - Soul of an Unknown Traveler
+900049 ??? - Large Soul of an Unknown Traveler
+900050 ??? - Soul of a Nameless Soldier
+900051 ??? - Large Soul of a Nameless Soldier
+900052 ??? - Soul of a Weary Warrior
+900053 ??? - Large Soul of a Weary Warrior
+900054 ??? - Soul of a Crestfallen Knight
+900055 ??? - Large Soul of a Crestfallen Knight
+900056 ??? - Soul of a Proud Paladin
+900057 ??? - Large Soul of a Proud Paladin
+900058 ??? - Soul of an Intrepid Hero
+900059 ??? - Large Soul of an Intrepid Hero
+900060 ??? - Soul of a Seasoned Warrior
+900061 ??? - Large Soul of a Seasoned Warrior
+900062 ??? - Soul of an Old Hand
+900063 ??? - Soul of a Venerable Old Hand
+900064 ??? - Soul of a Champion
+900065 ??? - Soul of a Great Champion
