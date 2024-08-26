@@ -361,6 +361,7 @@
 4101 Slow effect (strong) 
 4150 Inside Key of Universal door 
 4200 The swamp of caries 
+4310 Slow walking
 5000 Non-combat action running 
 5001 Non-combat behavior smooth disregard 
 5020 General effect for logic judgment 1 

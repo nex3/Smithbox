@@ -1,12 +1,13 @@
 {
     "list": [
-        {
-            "id": "1000",
-            "name": "Example",
-            
-            "tags": [
-                "flag"
-            ]
-        }
+        { "id": "70000110", "name": "Handmaid: Greirat's Ashes", "tags": [ "shop" ] },
+        { "id": "70000150", "name": "Greirat: Shop - Settlement Items Available", "tags": [ "shop" ] },
+        { "id": "70000151", "name": "Greirat: Shop - Irithyll Items Available", "tags": [ "shop" ] },
+        { "id": "70000152", "name": "Greirat: Shop - Lothric Items Available", "tags": [ "shop" ] },
+        { "id": "70000153", "name": "Greirat: Shop - 6 Lightning Urns Available", "tags": [ "shop" ] },
+        { "id": "70000175", "name": "Handmaid: Greirat's Ashes - Settlement Items Available", "tags": [ "shop" ] },
+        { "id": "70000176", "name": "Handmaid: Greirat's Ashes - Irithyll Items Available", "tags": [ "shop" ] },
+        { "id": "70000177", "name": "Handmaid: Greirat's Ashes - Lothric Items Available", "tags": [ "shop" ] },
+        { "id": "70000178", "name": "Handmaid: Greirat's Ashes - 6 Lightning Urns Available", "tags": [ "shop" ] },
     ]
 }
